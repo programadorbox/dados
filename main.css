@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#jugadores {
+    margin-bottom: 20px;
+}
+
+#resultado {
+    font-weight: bold;
+}
